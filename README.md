@@ -1,6 +1,6 @@
 <h1>Model predykcji opóźnien tramwajów</h1>
 
-<p>Ważnośch (feature importance) według xgbfir.</p>
+<p>Ważność cech (feature importance) według xgbfir.</p>
 <p>Lista zawiera zestawienie</li>najważniejszych cech do najmniej ważnych. Cechy, które nie miały wpływu na model nie zostały ujęte.</p>
 <ol>
 <li>time_diff</li>
